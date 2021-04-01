@@ -1,0 +1,13 @@
+h1{
+    
+    font-family: monospace;
+    font-size: 4rem;
+    color: blueviolet
+}
+span{
+    color:coral;
+}
+label{
+    font-family: sans-serif;
+    font-size: 2rem;
+}
